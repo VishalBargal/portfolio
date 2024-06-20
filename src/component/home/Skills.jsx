@@ -23,12 +23,13 @@ export default function Skills() {
             <h5 className="text-warning mt-3">
               visit my portfolio and hire me...
             </h5>
+           
           </div>
           <div className="col-12 col-sm-6 col-md-3 float-left  skills-outer p-3  "  
               data-scroll
               data-scroll-direction="horizontal"
               data-scroll-speed="-3" >
-            <div className="skills-div">
+            <div className="skills-div subscribr__btn99">
               <h2>React js</h2>
             </div>
           </div>
@@ -37,7 +38,7 @@ export default function Skills() {
               data-scroll-direction="horizontal"
               data-scroll-speed="-3"
           className="col-12 col-sm-6 col-md-3 float-left  skills-outer p-3 ">
-            <div className="skills-div">
+            <div className="skills-div subscribr__btn99">
               <h2>Node js </h2>
             </div>
           </div>
@@ -46,7 +47,7 @@ export default function Skills() {
               data-scroll-direction="horizontal"
               data-scroll-speed="-3"
           className="col-12 col-sm-6 col-md-3 float-left  skills-outer p-3  ">
-            <div className="skills-div">
+            <div className="skills-div subscribr__btn99">
               <h2> Express js</h2>
             </div>
           </div>
@@ -55,7 +56,7 @@ export default function Skills() {
               data-scroll-direction="horizontal"
               data-scroll-speed="-3"
           className="col-12 col-sm-6 col-md-3 float-left  skills-outer p-3">
-            <div className="skills-div">
+            <div className="skills-div subscribr__btn99">
               <h2>Mysql</h2>
             </div>
           </div>
@@ -64,7 +65,7 @@ export default function Skills() {
               data-scroll-direction="horizontal"
               data-scroll-speed="3"
           className="col-12 col-sm-6 col-md-3 float-left  skills-outer p-3 ">
-            <div className="skills-div">
+            <div className="skills-div subscribr__btn99">
               <h2>Mongodb</h2>
             </div>
           </div>
@@ -73,7 +74,7 @@ export default function Skills() {
               data-scroll-direction="horizontal"
               data-scroll-speed="3"
           className="col-12 col-sm-6 col-md-3 float-left  skills-outer p-3">
-            <div className="skills-div">
+            <div className="skills-div subscribr__btn99">
               <h2>Locomotive js </h2>
             </div>
           </div>
@@ -82,7 +83,7 @@ export default function Skills() {
               data-scroll-direction="horizontal"
               data-scroll-speed="3"
           className="col-12 col-sm-6 col-md-3 float-left  skills-outer p-3 ">
-            <div className="skills-div">
+            <div className="skills-div subscribr__btn99">
               <h2>G-SAP</h2>
             </div>
           </div>
@@ -91,7 +92,7 @@ export default function Skills() {
               data-scroll-direction="horizontal"
               data-scroll-speed="3"
           className="col-12 col-sm-6 col-md-3 float-left  skills-outer p-3 ">
-            <div className="skills-div">
+            <div className="skills-div subscribr__btn99">
               <h2>Jquery</h2>
             </div>
           </div>
@@ -100,7 +101,7 @@ export default function Skills() {
               data-scroll-direction="horizontal"
               data-scroll-speed="-3"
           className="col-12 col-sm-6 col-md-3 float-left  skills-outer p-3">
-            <div className="skills-div">
+            <div className="skills-div subscribr__btn99">
               <h2>JavaScript</h2>
             </div>
           </div>
@@ -109,7 +110,7 @@ export default function Skills() {
               data-scroll-direction="horizontal"
               data-scroll-speed="-3"
           className="col-12 col-sm-6 col-md-3 float-left  skills-outer p-3">
-            <div className="skills-div">
+            <div className="skills-div subscribr__btn99">
               <h2>JSON</h2>
             </div>
           </div>
@@ -118,7 +119,7 @@ export default function Skills() {
               data-scroll-direction="horizontal"
               data-scroll-speed="-3"
           className="col-12 col-sm-6 col-md-3 float-left  skills-outer p-3 ">
-            <div className="skills-div">
+            <div className="skills-div subscribr__btn99">
               <h2>Bootstrap 5</h2>
             </div>
           </div>
@@ -127,7 +128,7 @@ export default function Skills() {
               data-scroll-direction="horizontal"
               data-scroll-speed="-3"
           className="col-12 col-sm-6 col-md-3 float-left  p-3 skills-outer">
-            <div className="skills-div">
+            <div className="skills-div subscribr__btn99">
               <h2>CSS</h2>
             </div>
           </div>
@@ -136,7 +137,7 @@ export default function Skills() {
               data-scroll-direction="horizontal"
               data-scroll-speed="3"
           className="col-12 col-sm-6 col-md-3 float-left  p-3 skills-outer">
-            <div className="skills-div">
+            <div className="skills-div subscribr__btn99">
               <h2>HTML</h2>
             </div>
           </div>
@@ -145,7 +146,7 @@ export default function Skills() {
               data-scroll-direction="horizontal"
               data-scroll-speed="3"
           className="col-12 col-sm-6 col-md-3 float-left  p-3 skills-outer">
-            <div className="skills-div">
+            <div className="skills-div subscribr__btn99">
               <h2>F-motiion</h2>
             </div>
           </div>
@@ -154,7 +155,7 @@ export default function Skills() {
               data-scroll-direction="horizontal"
               data-scroll-speed="3"
           className="col-12 col-sm-6 col-md-3 float-left  p-3 skills-outer">
-            <div className="skills-div">
+            <div className="skills-div subscribr__btn99">
               <h2>Telwind</h2>
             </div>
           </div>
@@ -163,7 +164,7 @@ export default function Skills() {
               data-scroll-direction="horizontal"
               data-scroll-speed="3"
           className="col-12 col-sm-6 col-md-3 float-left  p-3 skills-outer">
-            <div className="skills-div">
+            <div className="skills-div subscribr__btn99">
               <h2>MUI</h2>
             </div>
           </div>

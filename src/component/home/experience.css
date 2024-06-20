@@ -19,6 +19,8 @@
     width: 100%;
     display: flex;
     gap: 20px;
+
+    
 }
 .container-div .panel-container {
     border-radius: 0.25rem;
@@ -35,6 +37,7 @@
     animation: fall 2s 0s forwards;
     transform: translateY(100%);
     animation: fly 2s 0s forwards;
+    
 }
 .container-div .panel-container:nth-child(2) {
     visibility: hidden;
@@ -63,6 +66,7 @@
 .container-div .panel-container:hover {
     cursor: pointer;
     outline-color: #948979;
+    
 }
 .container-div .panel-container:has(.panel-control:checked) {
     width: 60%;

@@ -91,6 +91,7 @@
     left: 50%;
     transform: translate(-50%, -50%);
     transition: 1s;
+    
 }
 
 .circle-1 {
@@ -146,6 +147,9 @@
     z-index: 11;
 
     animation-delay: .70s;
+    
+
+
 }
 
 .circle-8 {
@@ -156,6 +160,7 @@
     animation-delay: .80s;
 }
 
+
 @keyframes pulsePP {
     from {
         opacity: 0;
@@ -163,6 +168,7 @@
 
     50% {
         opacity: 10;
+
     }
 
     to {
@@ -419,6 +425,7 @@
     opacity: 0;
     background: transparent;
     border: 3px solid rgba(128, 128, 128, 0.349);
+
     border-radius: 50%;
     position: absolute;
     top: -5%;
